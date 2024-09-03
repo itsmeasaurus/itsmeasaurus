@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**itsmeasaurus/itsmeasaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**You can call me Liam** I am a developer who has worked in this industry for over 5 years. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the things about me
+
+- 🔭 I’m currently building on my backend development projects.
+- 🌱 I’m always learning new things like modern javascript frameworks.
+- 👯 I’m looking for amazing job opportunities
+- 💬 Ask me about anything ^_^
+- 📫 Reach me via LinkedIn or email
+- 😄 I speak 🇲🇲Burmese, 🇬🇧English, 🇯🇵Japanese and 🇹🇭Thai a little
+
