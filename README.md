@@ -1,5 +1,5 @@
 > [!BREAKING NEWS]  
-> I'm also moving to frontendddddddd
+> I'm moving to frontendddddddd
 
 ## Hi there 👋
 
