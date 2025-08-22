@@ -8,9 +8,9 @@
 
 Here are the things about me
 
-- 🔭 I’m currently building on my backend development projects.
+- 🔭 I’m currently working as a full-stack developer.
 - 🌱 I’m always learning new things.
 - 💬 Ask me about anything ^_^
 - 📫 Reach me via LinkedIn or email
-- 😄 I speak 🇲🇲Burmese, 🇬🇧English, 🇯🇵Japanese and 🇹🇭Thai
+- 😄 I speak 🇲🇲Burmese, 🇬🇧English, 🇯🇵Japanese. And also learning 🇹🇭Thai and German
 
