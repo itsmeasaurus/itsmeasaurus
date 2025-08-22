@@ -1,6 +1,3 @@
-> [!BREAKING NEWS]  
-> I'm moving to frontendddddddd
-
 ## Hi there 👋
 
 
